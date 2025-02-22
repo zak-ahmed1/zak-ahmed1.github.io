@@ -13,7 +13,7 @@ title: Ahmed Zakwan's Portfolio # This is what shows up in the tab of the browse
 
 # Hero Section
 name: Ahmed Hamid Mohamed Zakwan
-headline: headline message
+headline: Mechanical Design Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
   Write an awesome intro and discuss your highlights and qualification. You can edit this
   line in _config.yml. It will appear in your document head meta (for
@@ -25,13 +25,13 @@ profile_image: ./assets/images/profile-image/avatar.jpeg
 
 # Link your resume
 # You can place your resume in assets/resume/{resume file.pdf} or add external link such as pdf saved in google drive 
-resume-url: https://drive.google.com/file/d/13Z3duVzh-gguPU5r03oJVEE6rV9rd3DS/view?usp=sharing
+resume-url: https://drive.google.com/file/d/1bq4lgGN2Xm-gAxWXs3AupLr2jo1j6Fsh/view?usp=sharing
 
 
 # Set up external links - this will show up as small icons next to your name.
 
 external-links:    # input only your own url slug. The icons with missing entries will not appear.
-  linkedin: test    # https://www.linkedin.com/in/{your url slug} 
+  linkedin: test    # https://www.linkedin.com/in/ahmed-zakwan 
   github: leea12    # https://github.com/{your url slug} 
   stackoverflow: test      # https://stackoverflow.com/users/{your url slug}
   medium:            # https://medium.com/@{your url slug} 
