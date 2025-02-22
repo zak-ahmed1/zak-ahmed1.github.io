@@ -1,9 +1,10 @@
 ---
 layout: post
-title: project title
+title: Scaled-down Tilt-wing UAV
 description:  short description of the project
 skills: 
-- skill 1
-- skill 2
+- SolidWorks
+- Ansys
+- FDM
 main-image: /project.webp 
 ---
