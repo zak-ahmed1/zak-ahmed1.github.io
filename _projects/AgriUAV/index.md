@@ -1,9 +1,9 @@
 ---
 layout: post
-title: project title
+title: Precision Agricultural UAV
 description:  short description of the project
 skills: 
-- skill 1
-- skill 2
+- SolidWorks
+- Rendering
 main-image: /project.webp 
 ---
