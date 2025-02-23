@@ -5,5 +5,5 @@ description:  The coaxial octocopter has been designed as a multirotor UAV for e
 skills: 
 - SolidWorks
 - Rendering
-main-image: /project.webp 
+main-image: /project/heavyloaddrone/Iso View payload.jpg 
 ---
