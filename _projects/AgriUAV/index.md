@@ -5,7 +5,7 @@ description:  The Precision Agricultural Unmanned Aerial Vehicle (UAV) project w
 skills: 
 - SolidWorks
 - Rendering
-- Structural Anlysis
+- Structural Analysis
 - Laser Cutting
 - 3D Printing
 main-image: /project.webp 
