@@ -7,5 +7,5 @@ skills:
 - Ansys
 - FDM
 - PID Controller
-main-image: /project.webp 
+main-image: /Tilt-wing1.png 
 ---
